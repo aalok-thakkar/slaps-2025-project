@@ -1,6 +1,9 @@
 # Invariant Synthesis Course Project
 
 **Course**: CS-5310 Symbolic Logic and Applications
+**Instructor**: Professor Aalok Thakkar
+**Teaching Assistant**: Smayan Agarwal
+
 
 ## Project Overview
 This semester-long project is designed as a continuous, research-oriented exercise in program verification and automated reasoning. Students will progressively build a tool for invariant synthesis. You may work in groups of 2 for this project.
